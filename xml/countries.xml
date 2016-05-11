@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+    <country url="http://www.masvida.org.ar" popup="">Argentina</country>
+    <country url="http://www.ownyouribd.com.au" popup="no-popup">Australia</country>
+    <country url="https://www.crohn-colitis-info.at" popup="no-popup">Austria</country>
+    <country url="http://www.amdii.org.br" popup="">Brazil - AMDII advocacy group</country>
+    <country url="http://www.abcd.org.br" popup="">Brazil - ABCD advocacy group</country>
+    <country url="http://www.crohnsandcolitis.ca" popup="">Canada - Crohn's and colitis advocacy group</country>
+    <country url="http://www.ibdfoundation.org" popup="">Canada - IBD Foundation</country>
+	<country url="https://www.facebook.com/CUCI.Crohn.CostaRica/?fref=ts" popup="">Costa Rica</country>
+    <country url="http://www.crohn.cz" popup="">Czech Republic</country>
+	<country url="http://www.fundeii.org" popup="">Dominican Republic</country>
+	<country url="https://crohnjacolitis.fi" popup="">Finland</country>
+    <country url="http://www.ilssontaupremierplan.fr" popup="no-popup">France</country>
+    <country url="http://www.negyulladjbe.eu" popup="">Hungary</country>
+	<country url="https://www.leben-mit-ced.de" popup="no-popup">Germany</country>
+    <country url="#" popup="">Japan</country>
+    <country url="http://www.crohncuci.org.mx" popup="">Mexico</country>
+    <country url="http://www.ownyouribd.co.nz" popup="no-popup">New Zealand</country>
+    <country url="#" popup="">Slovenia</country>
+    <country url="http://alltomibd.se" popup="no-popup">Sweden</country>
+    <country url="#" popup="">Turkey</country>
+</countries>
